@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: #FFEDD5;
+}
+
+#cardapio {
+  width: 300px;
+  margin: 0 auto;
+  background-color: #FFEDD5;
+
+}
+
+header h1 {
+  font: 28px "Roboto Serif", serif;
+  color: #2D2C2A;
+  text-align: center;
+}
+
+/* >lembrar de colocar o nome das coisas */
+header span {
+  color: #995000;
+}
+
+header p {
+  font: 14px "Roboto", sans-serif;
+  color: #000;
+  opacity: 70%;
+  text-align: center;
+}
+
+header {
+  width: 300px;
+  padding: 32px 0;
+  margin: 0 auto;
+  gap: 4px;
+  box-sizing: border-box;
+}
+
+.titulo {
+  font: 16px "Roboto Serif", serif;
+  margin-bottom: 8px;
+}
+
+.preço {
+  font: 16px "Roboto Serif", serif;
+}
+
+.texto {
+  font: 14px "Roboto", sans-serif;
+  text-align: left;
+  width: 240px;
+}
+
+#brunch h2 {
+  font: 18px "Roboto Serif", serif;
+  color: #2D2C2A;
+  width: 300px;
+  padding: 8px 16px;
+  background-color: #FED7AA;
+  text-align: center;
+  margin: 0 auto;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+}
+
+#brunch {
+  margin-bottom: 24px;
+}
+
+#bebidas h2 {
+  font: 18px "Roboto Serif", serif;
+  color: #2D2C2A;
+  width: 300px;
+  padding: 8px 16px;
+  background-color: #FED7AA;
+  text-align: center;
+  margin: 0 auto;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+}
+
+.menu {
+  width: 300px;
+  justify-content: space-between;
+  display: flex;
+}
+
+section {
+  text-align: center;
+  margin: 0 auto;
+  width: 300px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 16px;
+}
